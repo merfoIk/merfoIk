@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merfoIk
-- 🌱 I’m currently learning html5 and css3
+- 🌱 I’m currently learning HTML5, CSS3 and JS
 
 <!---
 merfoIk/merfoIk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
